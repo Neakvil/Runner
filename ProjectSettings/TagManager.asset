@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - New tag
+  - Ground
+  - 'Trap '
+  - Enemy
+  - Coin
+  - Chest
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Coin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 1577585481
+    locked: 0
+  - name: Trap
+    uniqueID: 3254398001
+    locked: 0
+  - name: Platform Secret
+    uniqueID: 2571720065
+    locked: 0
+  - name: Ground
+    uniqueID: 85126857
+    locked: 0
+  - name: ObjectBack
+    uniqueID: 3126130833
+    locked: 0
+  - name: Player
+    uniqueID: 3759793617
+    locked: 0
+  - name: ObjectFront
+    uniqueID: 2756233329
+    locked: 0
+  - name: UI
+    uniqueID: 3503425263
+    locked: 0
